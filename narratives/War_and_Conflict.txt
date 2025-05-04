@@ -1,0 +1,15 @@
+The evolution of the theme "War and Conflict" in France and Germany during the 1700s and 1800s is marked by significant shifts in poetic focus, reflecting the tumultuous political, social, and cultural landscape of both countries.
+
+In France, the early decades of the century saw a gradual decline in the prevalence of war-related themes, with a peak value of 0.697 in 1843 (Figure 1). This corresponds to the Regency period, when Louis XIV's death marked the end of absolute monarchy and the beginning of a more liberal era. The French Revolution (1789-1799) would later bring a surge in war-themed poetry, as poets like Lamartine and Hugo explored the conflicts and upheavals of this transformative period.
+
+The Napoleonic Era (1799-1815) saw a slight decline in war-related themes, but the Restoration of the Bourbon monarchy in 1815 led to an increase in patriotic and nationalistic sentiment, resulting in a peak value of 0.706 in 1848. The French Revolution of 1848 brought another surge in war-themed poetry, reflecting the tumultuous events surrounding the establishment of the Second Republic.
+
+The Franco-Prussian War (1870-1871) had a devastating impact on France, leading to the fall of the Second Empire and the establishment of the Third Republic. This period saw a significant decline in war-related themes, with a peak value of 0.8 in 1870 (Figure 2). The late 1800s witnessed the rise of realism and naturalism, as well as secularization debates, which may have contributed to a decrease in poetic focus on war.
+
+In Germany, the late 1700s saw an increase in war-themed poetry, with a peak value of 0.743 in 1877 (Figure 3). This corresponds to the Enlightenment influence and early Romanticism, as well as the wars sparked by the dissolution of the Holy Roman Empire in 1806.
+
+The Revolutions of 1848 brought another surge in war-related themes, reflecting the tumultuous events surrounding German unification. The Wars of German Unification (1864-1871) led to a significant increase in war-themed poetry, with a peak value of 0.844 in 1861. The late 1800s saw the rise of nationalism, industrialization, and cultural modernism, which may have contributed to a decrease in poetic focus on war.
+
+Cross-national influence is evident between France and Germany during this period. The Revolutions of 1848 led to similar poetic trends in both countries, with an increase in war-themed poetry reflecting the tumultuous events surrounding national unification. In contrast, the Franco-Prussian War had a devastating impact on France, leading to a significant decline in war-related themes.
+
+In conclusion, the evolution of the theme "War and Conflict" in France and Germany during the 1700s and 1800s reflects the complex interplay between political upheavals, cultural movements, and intellectual shifts. The tumultuous events surrounding the French Revolution and the Revolutions of 1848 led to significant increases in war-themed poetry, while the Franco-Prussian War had a devastating impact on France. The rise of realism and naturalism, secularization debates, and nationalism contributed to changes in poetic focus on this theme.

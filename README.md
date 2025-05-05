@@ -2,7 +2,7 @@
 
 A data-driven exploration of how poetic themes evolve across time (1700-1900) and geography (France and Germany), visualizing cultural exchanges and thematic shifts in poetry.
 
-[![Demo Screenshot](frontend/public/images/demo.png)](https://theme-atlas.netlify.app)
+[![Demo Screenshot](frontend/public/images/demo.png)](https://theme-atlas.vercel.app)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Our interactive visualization tool enables users to:
 
 ## Demo
 
-**Live Demo**: [Poetry Meta-Patterns Visualization](https://theme-atlas.netlify.app)
+**Live Demo**: [Poetry Meta-Patterns Visualization](https://theme-atlas.vercel.app)
 
 The interactive visualization allows you to:
 
@@ -213,8 +213,8 @@ Potential directions for expanding this research:
 
 ## Contributors
 
-- **Charles Averill**
+- [**Charles Averill**](https://github.com/CharlesAverill)
 
-- **Sristi Dakshit**
+- [**Sristi Dakshit**](https://github.com/SristiDakshit)
 
-- **Joel Stephen**
+- [**Joel Stephen**](https://github.com/JoelJacobStephen)

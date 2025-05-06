@@ -16,6 +16,7 @@ A data-driven exploration of how poetic themes evolve across time (1700-1900) an
 - [Key Findings](#key-findings)
 - [Future Work](#future-work)
 - [Video Presentation](#video-presentation)
+- [Reports](#reports)
 - [Contributors](#contributors)
 
 ## Project Overview
@@ -210,6 +211,11 @@ Potential directions for expanding this research:
 ## Video Presentation
 
 [![Theme Atlas](https://i3.ytimg.com/vi/agRr7erBTE4/maxresdefault.jpg)](https://youtu.be/agRr7erBTE4D)
+
+## Reports
+
+- [Proposal](./proposal.pdf)
+- [Final Report](./final_report.pdf)
 
 ## Contributors
 
